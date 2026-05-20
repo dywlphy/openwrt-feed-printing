@@ -12,7 +12,7 @@ PKG_RELEASE:=2
 
 PKG_MAINTAINER:=Tobias Waldvogel <tobias.waldvogel@gmail.com>
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/OpenPrinting/cups.git
+PKG_SOURCE_URL:=https://github.com/dywlphy/cups.git
 PKG_SOURCE_VERSION:=tags/v$(PKG_VERSION)
 PKG_HASH:=54bb5234f617f6db0ee36c4439c1f89ae50f0ad998fa5dc4d095526fba6b4c98
 PKG_LICENSE:=GPL-2.0
